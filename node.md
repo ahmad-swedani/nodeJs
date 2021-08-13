@@ -27,3 +27,10 @@ it is blocking that mean execute the code line by line when the first is done it
 
 it is non-blocking the execution that mean until the date is ready the code will move to execute other things it will not wait until finish. 
 
+#### what is `__dirname` mean in NodeJs??
+
+'__dirname' where the current file is located
+
+> Note:its similar to . on the path like './assets'
+
+#### 
